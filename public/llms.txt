@@ -1,0 +1,108 @@
+# DC תקשורת — Generative Engine Optimization Map
+
+> DC תקשורת is a telecommunications services company currently operating with an existing website. The owner wants a complete redesign inspired by the clean, modern aesthetic of haimke.co.il, while ensuring all design elements are free from copyright issues. The goal is a fresh, professional look that differentiates from the current site.
+
+---
+
+## Pages
+
+### בית
+https://dc-229c7877.zappy5.app
+מחפשים חברות תקשורת באיזור? DC תקשורת מעניקה שירותי טלקום מתקדמים, ממרכזיות ועד מוקדים תפעוליים. ייעוץ חינם עוד היום — כנסו לפרטים!
+
+### שירותים
+https://dc-229c7877.zappy5.app/services
+מרכזיות, תשתיות תקשורת ומוקדים — כל השירותים תחת קורת גג אחת. DC תקשורת מתאימה לך פתרון מנצח. גלול לגלות איך נשדרג לך את העסק!
+
+### אודות
+https://dc-229c7877.zappy5.app/about
+DC תקשורת היא לא סתם עוד חברה ברשימת חברות תקשורת — אנחנו שותפים אמיתיים לדרך. הכירו את הצוות, החזון והערכים שמובילים אותנו לכל פרויקט.
+
+### פרויקטים
+https://dc-229c7877.zappy5.app/projects
+צפו בתיק עבודות של פרויקטי תקשורת מעסקים קטנים ועד מוקדים ארגוניים. DC תקשורת מבצעת, מחברת ומנצחת — תנו לעבודות לדבר בעד עצמן.
+
+### צור קשר
+https://dc-229c7877.zappy5.app/contact
+רוצים הצעת מחיר או ייעוץ מקצועי? מלאו פרטים ונחזור אליכם בקפיצה. DC תקשורת זמינה לכל שאלה — מוקד התקשורת שלכם לסיפור הצלחה חדש.
+
+### Products
+https://dc-229c7877.zappy5.app/products
+המוצרים שלנו - DC תקשורת
+
+### Cart
+https://dc-229c7877.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://dc-229c7877.zappy5.app/checkout
+תשלום
+
+### Login
+https://dc-229c7877.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://dc-229c7877.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://dc-229c7877.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://dc-229c7877.zappy5.app/product/:slug
+פרטי המוצר - DC תקשורת
+
+### Category
+https://dc-229c7877.zappy5.app/category/:slug
+מוצרים - DC תקשורת
+
+### תודה רבה | DC תקשורת
+https://dc-229c7877.zappy5.app/thank-you
+תודה על פנייתך ל-DC תקשורת. ההודעה שלך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://dc-229c7877.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dc-229c7877.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dc-229c7877.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DC תקשורת
+DC תקשורת is a telecommunications services company currently operating with an existing website. The owner wants a complete redesign inspired by the clean, modern aesthetic of haimke.co.il, while ensuring all design elements are free from copyright issues. The goal is a fresh, professional look that differentiates from the current site.
+
+## Target Audience
+- יזמים טכנולוגיים
+- סטארטאפים מודרניים
+- חדשני תאגידים
+
+## Industry
+Telecommunications
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dc-229c7877.zappy5.app/sitemap.xml
+- Robots: https://dc-229c7877.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dc-229c7877.zappy5.app/llms-full.txt
+- Products (JSON): https://dc-229c7877.zappy5.app/products.json
+- Products (Google Merchant RSS): https://dc-229c7877.zappy5.app/product-feed.xml
